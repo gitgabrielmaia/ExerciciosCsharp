@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\bin\Debug\net8.0\ContadorPalavras.exe
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\bin\Debug\net8.0\ContadorPalavras.deps.json
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\bin\Debug\net8.0\ContadorPalavras.runtimeconfig.json
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\bin\Debug\net8.0\ContadorPalavras.dll
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\bin\Debug\net8.0\ContadorPalavras.pdb
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\ContadorPalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\ContadorPalavras.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\ContadorPalavras.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\ContadorPalavras.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\ContadorPalavras.dll
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\refint\ContadorPalavras.dll
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\ContadorPalavras.pdb
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\ContadorPalavras.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ContadorPalavras\ContadorPalavras\obj\Debug\net8.0\ref\ContadorPalavras.dll
